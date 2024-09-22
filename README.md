@@ -14,6 +14,11 @@ The **RockPaperScissors** project is a blockchain-based implementation of the cl
 - **Transparent Outcomes:** Since the game logic is public, anyone can verify the outcomes of the game by inspecting the blockchain state.
 - **Lightweight Structs:** Both player and computer moves are represented by simple structures for optimized storage and processing.
 
+##Deployment
+
+Contract Address: https://explorer.aptoslabs.com/account/0xc0251812fce795c01c629a792d4f7d8588442ea45bf48efaff3c72ce30474286/transactions?network=devnet
+Transaction Hash: 0xc0251812fce795c01c629a792d4f7d8588442ea45bf48efaff3c72ce30474286
+
 ## Contract Information
 
 ### Structs
@@ -63,6 +68,9 @@ The current implementation of **RockPaperScissors** is a minimalistic demonstrat
 3. Interact with the deployed contract by invoking the `play_game` function with your desired move (Rock, Paper, or Scissors).
   
 This project demonstrates the flexibility of the Aptos Move language and offers a foundation for further exploration into decentralized gaming.
+
+## Contact Information:
+Email : sirohisanchit8@gmail.com
 
 ## License
 MIT License.
