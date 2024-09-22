@@ -18,6 +18,7 @@ The **RockPaperScissors** project is a blockchain-based implementation of the cl
 
 Contract Address: https://explorer.aptoslabs.com/account/0xc0251812fce795c01c629a792d4f7d8588442ea45bf48efaff3c72ce30474286/transactions?network=devnet
 Transaction Hash: 0xc0251812fce795c01c629a792d4f7d8588442ea45bf48efaff3c72ce30474286
+![image](https://github.com/user-attachments/assets/cfe7a714-539a-42c5-80f1-ed686d5392cf)
 
 ## Contract Information
 
